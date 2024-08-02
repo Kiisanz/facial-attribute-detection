@@ -59,4 +59,4 @@ The ```index.html``` file should include an HTML form that allows users to uploa
 
 # License:
 
-Specify the license under which the code is released [MIT License](MIT License.txt).
+Specify the license under which the code is released [MIT License](License.txt).
